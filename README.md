@@ -1,10 +1,6 @@
-To upgrade the UAV project with the suggested future enhancements, we will integrate advanced technologies and hybrid systems to create a state-of-the-art UAV platform. Here's an improved version of the project incorporating the latest technologies and features:
-
----
-
 # Advanced UAV with Hybrid Propulsion, AI-Driven Autopilot, and Long-Range Communication
 
-## Key Features (Updated):
+## Key Features :
 1. **Hybrid Propulsion System**: Combining a **gasoline engine** for primary propulsion and **solar panels** for supplemental power to extend flight endurance and reduce fuel consumption.
 2. **AI-Driven Autopilot**: Dynamic route planning with real-time decision-making using **AI** algorithms and **machine learning** for optimal path selection based on weather, terrain, and obstacles.
 3. **Satellite Communication**: Integration of **satellite communication** for ultra-long-range operation, ensuring connectivity in remote areas.
@@ -14,7 +10,7 @@ To upgrade the UAV project with the suggested future enhancements, we will integ
 
 ---
 
-## Components (Updated):
+## Components :
 
 ### UAV Hardware:
 - **Arduino Mega 2560**: Primary flight controller, interfacing with AI systems and autopilot control.
@@ -32,7 +28,7 @@ To upgrade the UAV project with the suggested future enhancements, we will integ
 - **Electronic Fuel Gauge**: To monitor fuel levels remotely.
 - **LiDAR Obstacle Avoidance**: Full 360-degree obstacle detection using laser technology.
 
-### Ground Control Station (Updated):
+### Ground Control Station :
 - **Arduino Mega + Raspberry Pi for Ground Control**: For processing incoming data, camera feed, and AI-driven path management.
 - **Joystick**: Manual control for pitch, roll, and yaw.
 - **TFT/OLED Display with Touch Interface**: Displays live video feed, telemetry, and system status.
@@ -101,7 +97,7 @@ For robust communication, the UAV uses both **LoRa** and **Satellite communicati
 
 ---
 
-## Updated Code: Integrating Satellite, AI, and Hybrid Systems
+## Code: Integrating Satellite, AI, and Hybrid Systems
 
 **UAV Code Snippet for Hybrid Communication and AI-based Autopilot:**
 
